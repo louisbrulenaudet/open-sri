@@ -1,0 +1,38 @@
+{
+  "name": "open-sri",
+  "version": "1.0.0",
+  "description": "Ultralight, non-dependent and minimalist open-source package to recursively generate subresource integrity (SRI) hashes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Brulé Naudet <contact@louisbrulenaudet.co,> (https://louisbrulenaudet.com)",
+  "license": "MIT",
+  "url": "https://louisbrulenaudet.com",
+  "email": "contact@louisbrulenaudet.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/louisbrulenaudet/mongoose-subresource-integrity"
+  },
+  "keywords": [
+    "sri",
+    "subresource-integrity",
+    "security",
+    "content delivery network",
+    "W3C",
+    "open-source",
+    "open-sri"
+  ],
+  "bugs": "https://louisbrulenaudet.com/contact",
+  "homepage": "https://louisbrulenaudet.com",
+  "funding": [
+    {
+      "type": "Revolut",
+      "url": "https://revolut.me/louisbrulenaudet"
+    },
+    {
+      "type": "Lydia",
+      "url": "https://lydia-app.com/collect/louisbrulenaudet"
+    }
+  ]
+}
