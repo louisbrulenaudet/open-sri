@@ -1,5 +1,7 @@
 # open-sri
 
+<img align="right" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.svg?raw=true" height="150px" alt="the yarn kitten">
+
 Ultralight, non-dependent and minimalist open-source package to recursively generate **sha-256**, **sha-384** or **sha-512** subresource integrity hashes to authenticate **.js** and **.css** files.
 
 ```js
@@ -37,14 +39,15 @@ This package aims at automating the process of generating cryptographic hashes i
 
 ## Installation
 
-This is a [Node.js](https://nodejs.org/en/) module available through the [npm registry](https://www.npmjs.com/).
+This is a [Node.js](https://nodejs.org/en/) module available through the [npm](https://www.npmjs.com/) & [yarn](https://yarnpkg.com/?q=open-sri) registries.
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/). Node.js 0.10 or higher is required.
 
 If this is a brand new project, make sure to create a `package.json` first with the [`npm init` command](https://docs.npmjs.com/creating-a-package-json-file). Then:
 
 ```bash
-  npm i open-sri
+  npm i open-sri 
+  yarn install open-sri
 ```
 
 ## Importing
